@@ -43,7 +43,7 @@ python main.py
 
 8. Mint Zerius NFT and bridge this NFT to any chain (layerzero protocol)
 
-9. Crete Omnisea NFT
+9. Create Omnisea NFT
 
 10. Mint NFT on NFTS2ME
 
@@ -58,6 +58,8 @@ python main.py
 15. Check gas before starting the module, if gas > specified, the software will wait for
 
 16. Logging via logger module
+17. Swap on Izumi Finance 
+
 
 ---
 <h2>⚙️ Settings</h2>
